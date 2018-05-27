@@ -10,7 +10,9 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.scene.input.MouseEvent;
-
+/*
+ * Shows Distance between two draggable points
+ */
 public class distance extends Application {
 	
 	double ogX, ogY;

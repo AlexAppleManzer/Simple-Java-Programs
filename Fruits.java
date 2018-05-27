@@ -1,5 +1,7 @@
 package program4;
-	
+	/*
+	 * Shows a selection of a variety of fruits.
+	 */
 import javafx.application.Application;
 import javafx.event.Event;
 import javafx.stage.Stage;

@@ -1,5 +1,7 @@
 package program2;
-
+/*
+ * Textbox tool to convert Miles to kilometers
+ */
 import javafx.application.Application;
 import javafx.event.EventHandler;
 import javafx.stage.Stage;
