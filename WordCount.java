@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Practice_7_2 {
+public class WordCount {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter a String:");
